@@ -18,12 +18,12 @@ class Start extends Component {
     this.data.consulting = [
       'direction', 'hiring/firing', 'management',
       'nearshore/offshore implementation', 'functional analysis',
-      'production process advising', 'strategy', 'kubernetes',
+      'production process advising', 'strategy', 'cloud cluster and node management',
       'api development', 'technical writing', 'team culture advising'
     ]
     this.data.skills = [
       'html5', 'css5', 'react', 'keystonejs', 'wordpress', 'linux',
-      'aws', 'sitecore', 'javascript', 'nodejs', 'jira'
+      'aws', 'sitecore', 'javascript', 'nodejs', 'jira', 'kubernetes'
     ]
     this.data.projects = [
       {
