@@ -1,0 +1,28 @@
+body{
+  background-color: $color-bg;
+  animation: fadein 0.5s;
+  color: $color-white;
+  font-family: 'Space Mono', monospace;
+  font-size: 1.15em;
+}
+
+h1, h2, h3, .h1, .h2, .h3{
+  margin-top: 0;
+  margin-bottom: 0;
+  font-weight: 400;
+  letter-spacing: 0.5rem;
+  width: calc(100% + 0.5rem);
+}
+
+.h1{
+  font-size: 3.5em;
+  font-weight: 400;
+  letter-spacing: 0.5rem;
+  width: calc(100% + 0.5rem);
+}
+
+.h3{
+  font-size: 1.2em;
+}
+
+.h3{}
